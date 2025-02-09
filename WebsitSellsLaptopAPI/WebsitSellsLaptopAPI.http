@@ -1,0 +1,6 @@
+@WebsitSellsLaptopAPI_HostAddress = http://localhost:5263
+
+GET {{WebsitSellsLaptopAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
